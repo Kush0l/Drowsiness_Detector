@@ -1,0 +1,4 @@
+imutils
+CMake
+pygame
+dlib
